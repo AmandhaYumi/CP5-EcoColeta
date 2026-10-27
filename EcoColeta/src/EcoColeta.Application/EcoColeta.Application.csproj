@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../EcoColeta.Domain/EcoColeta.Domain.csproj" />
+  </ItemGroup>
+</Project>
